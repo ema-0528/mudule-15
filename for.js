@@ -20,7 +20,11 @@
 //     num++; // loop variable change
 // }
 
-for( let num = 0; num < 5; num++){
+// for( let num = 0; num < 5; num++){
+//     console.log(num);
+// }
+// *..jotokkhon sotto na hy totokkhon loop colbe*
+
+for(let num = 7; num <5; num++){
     console.log(num);
 }
-// *..jotokkhon sotto na hy totokkhon loop colbe*
